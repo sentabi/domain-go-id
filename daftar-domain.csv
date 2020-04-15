@@ -1,31 +1,50 @@
-DOMAIN, KATEGORI, LOKASI SERVER, SSL
-www.bin.go.id, Lembaga Negara, Indonesia, tidak
-kominfo.go.id, Kementrian, Indonesia, Ya
-bps.go.id, Lembaga Negara,Indonesia, Ya
-www.imigrasi.go.id, ,Indonesia, Ya
-oss.go.id, ,Indonesia, Ya
-www.bkn.go.id, Lembaga Negara, Indonesia, Ya
-dephub.go.id, Kementrian, Indonesia, Tidak
-kemenperin.go.id, Kementrian, Indonesia, Ya
-www.pajak.go.id, Kementrian, Indonesia, Ya
-www.ekon.go.id,,Indonesia, Ya
-www.kemdikbud.go.id, Kementrian, Indonesia, Ya
-www.postel.go.id, Kementrian, Indonesia, Ya
-www.bappebti.go.id, , Indonesia, Tidak
-kemlu.go.id, Kementrian, Indonesia, Ya
-www.dpr.go.id, Lembaga Negara, Indonesia, Tidak
-www.setneg.go.id, Lembaga Negara, Indonesia, Ya
-baznas.go.id, Lembaga Negara, Indonesia, Ya
-www.esdm.go.id, Kementrian, Indonesia, Ya
-www.beacukai.go.id, ,Indonesia, Tidak
-mkri.id, Lembaga Negara, Indonesia, Ya
-www.komnasham.go.id, Lembaga Negara, Indonesia, Ya
-bnn.go.id, Lembaga Negara, Indonesia, Ya
-surabaya.go.id, Provinsi, Indonesia, Ya
-tangerangkota.go.id, Kota, Indonesia, Ya
-jogjaprov.go.id, Provinsi, Indonesia, Ya
-jabarprov.go.id, Provinsi, Indonesia, Ya
-www.bekasikab.go.id, Kota, Indonesia,Tidak
-kedirikab.go.id, Kota, Indonesia, Ya
-www.blorakab.go.id, Kota, Indonesia, Ya
-www.patikab.go.id, Kota, Indonesia, Ya
+DOMAIN, KATEGORI, NAMA, LOKASI SERVER, SSL, EMAIL
+acehprov.go.id, Provinsi, Aceh, Indonesia, YA, LOKAL
+baliprov.go.id, Provinsi, Bali, Indonesia, Ya, GMAIL
+bantenprov.go.id, Provinsi, Banten, Indonesia, YA, LOKAL
+bengkuluprov.go.id, Provinsi, Bengkulu, Indonesia, YA, (MX ERROR)
+gorontaloprov.go.id, Provinsi, Gorontalo, Indonesia, YA, LOKAL
+jakarta.go.id, Provinsi, Jakarta, Indonesia, YA, LOKAL
+jabarprov.go.id, Provinsi, Jawa Barat, Indonesia, YA,LOKAL
+jatengprov.go.id, Provinsi, Jawa Tengah, Indonesia, YA, LOKAL
+jatimprov.go.id, Provinsi, Jawa Timur, Indonesia, TIDAK, LOKAL
+kalbarprov.go.id, Provinsi, Kalimantan Barat, Indonesia, TIDAK, LOKAL
+kalselprov.go.id, Provinsi, Kalimantan Selatan, Indonesia, TIDAK, LOKAL
+kalteng.go.id, Provinsi, Kalimantan Tengah, Indonesia, YA, LOKAL
+kaltimprov.go.id, Provinsi, Kalimantan Timur, Indonesia, YA, LOKAL
+kaltaraprov.go.id, Provinsi, Kalimantan Utara, Cloudflare, YA, LOKAL
+babelprov.go.id, Provinsi, Kepulauan Bangka Belitung, Indonesia, YA, LOKAL
+kepriprov.go.id, Provinsi, Kepulauan Riau, Indonesia, YA, LOKAL
+lampungprov.go.id, Provinsi, Lampung, Indonesia, YA, LOKAL
+malukuprov.go.id, Provinsi, Maluku, Indonesia, YA, LOKAL
+malutprov.go.id, Provinsi, Maluku Utara, Indonesia, -, LOKAL
+nttprov.go.id, Provinsi, Nusa Tenggara Timur, LUAR NEGRI (VULTR), -, VULTR
+papua.go.id, Provinsi, Papua, Indonesia, YA, GMAIL
+papuabaratprov.go.id, Provinsi, Papua Barat, Indonesia, YA, LOKAL
+sulteng.go.id, Provinsi, Sulawesi Tengah, Indonesia, TIDAK, (GA ADA MX)
+sultra.go.id, Provinsi, Sulawesi Tenggara, Indonesia, TIDAK, (GA ADA MX)
+sumbarprov.go.id, Provinsi, Sumatra Barat, Indonesia, TIDAK, LOKAL
+sumutprov.go.id, Provinsi, Sumatra Utara, Indonesia, TIDAK, LOKAL
+jogjaprov.go.id, Provinsi, Yogyakarta, Indonesia, YA,LOKAL
+www.bin.go.id, Lembaga Negara,, Indonesia, TIDAK, LOKAL
+kominfo.go.id, Kementrian,, Indonesia, YA, LOKAL
+bps.go.id, Lembaga Negara,,Indonesia, YA, LOKAL
+www.imigrasi.go.id, ,,Indonesia, YA, LOKAL
+oss.go.id, Lembaga Negara,,Indonesia, YA, MICROSOFT
+www.bkn.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
+dephub.go.id, Kementrian,, Indonesia, TIDAK, LOKAL
+kemenperin.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.pajak.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.ekon.go.id,,Indonesia, YA, MXTHUNDER
+www.kemdikbud.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.postel.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.bappebti.go.id, ,, Indonesia, TIDAK, LOKAL
+kemlu.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.dpr.go.id, Lembaga Negara,, Indonesia, TIDAK, LOKAL
+www.setneg.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
+baznas.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
+www.esdm.go.id, Kementrian,, Indonesia, YA, LOKAL
+www.beacukai.go.id, ,,Indonesia, TIDAK, LOKAL
+mkri.id, Lembaga Negara,, Indonesia, YA, LOKAL
+www.komnasham.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
+bnn.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
