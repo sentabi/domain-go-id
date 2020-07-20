@@ -48,4 +48,17 @@ www.beacukai.go.id, ,,Indonesia, TIDAK, LOKAL
 mkri.id, Lembaga Negara,, Indonesia, YA, LOKAL
 www.komnasham.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
 bnn.go.id, Lembaga Negara,, Indonesia, YA, LOKAL
-presidenri.go.id, Lembaga Negara,,Luar Negeri,YA, LOKAL
+presidenri.go.id, Lembaga Negara,,Luar Negeri (CLOUDFLARE),YA, LOKAL
+domain.go.id, Kementrian,Kementerian Komunikasi dan Informatika, Indonesia, YA, LOKAL
+indonesia.go.id, Kementrian, ,Indonesia, YA, (GA ADA MX)
+prakerja.go.id, Kementrian, Kementerian Koordinator Bidang Perekonomian, Luar Negeri (CLOUDFLARE), YA, GMAIL
+covid19.go.id, Kementrian, Kementrian Kesehatan, Luar Negeri (CLOUDFLARE), YA, LOKAL
+bangkalankab.go.id, Kabupaten, , Indonesia, TIDAK, GMAIL
+kemkes.go.id, Kementrian, Kementrian Kesehatan, Indonesia, TIDAK, LOKAL
+ahu.go.id, Kementrian, , Indonesia, YA, LOKAL
+kemenkeu.go.id, Kementrian, Kementrian Keuangan, Indonesia, YA, LOKAL
+slemankab.go.id, Kabupaten, Kabupaten Sleman, Indonesia, TIDAK, LOKAL
+menpan.go.id, Kementrian, Kementrian Pertanian, Indonesia, YA, MXTHUNDER
+bpjsketenagakerjaan.go.id, Kementrian, , Indonesia, YA, LOKAL
+pu.go.id, Kementrian, Kementerian Pekerjaan Umum dan Perumahan Rakyat, Indonesia, YA, GMAIL
+lkpp.go.id, Kementrian, Menteri Perencanaan Pembangunan Nasional, Indonesia, YA, YA
